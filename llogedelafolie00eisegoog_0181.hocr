@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./llogedelafolie00eisegoog_0181.png"; bbox 0 0 2192 3809; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 417 1599 791 1806">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 417 1599 791 1806">
+     <span class='ocr_line' id='line_1_1' title="bbox 461 1599 760 1662; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 461 1599 533 1660; x_wconf 65' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_2' title='bbox 560 1603 643 1662; x_wconf 62' lang='lat' dir='ltr'>Nssw</span> <span class='ocrx_word' id='word_1_3' title='bbox 668 1601 760 1660; x_wconf 63' lang='lat' dir='ltr'>vom&lt;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 417 1688 791 1806; baseline -0.008 -45"><span class='ocrx_word' id='word_1_4' title='bbox 417 1691 579 1806; x_wconf 66' lang='grc' dir='ltr'>ιΡΗΒΜΟ</span> <span class='ocrx_word' id='word_1_5' title='bbox 599 1688 791 1769; x_wconf 72' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 418 1883 820 2015">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 418 1883 820 2015">
+     <span class='ocr_line' id='line_1_3' title="bbox 484 1883 725 1935; baseline -0.008 -10"><span class='ocrx_word' id='word_1_6' title='bbox 484 1883 595 1935; x_wconf 65' lang='grc' dir='ltr'>Αετοῆ,</span> <span class='ocrx_word' id='word_1_7' title='bbox 614 1884 725 1924; x_wconf 61' lang='lat' dir='ltr'>mox</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 418 1950 820 2015; baseline -0.017 -23"><span class='ocrx_word' id='word_1_8' title='bbox 418 1951 540 1992; x_wconf 71' lang='grc' dir='ltr'>τιιυεΝ</span> <span class='ocrx_word' id='word_1_9' title='bbox 560 1950 797 2015; x_wconf 50' lang='lat' dir='ltr'>fom-:mfiuz-sff..</span> <span class='ocrx_word' id='word_1_10' title='bbox 816 1955 820 1962; x_wconf 54' lang='lat'><strong><em>¹</em></strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1100 3809">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1100 3809">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1100 3809; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1100 3809; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
